@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "room20",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "7a15395d-3fe8-4652-a821-6495c76177ab",
+      "database_name": "room20-db1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
